@@ -1,0 +1,23 @@
+.brand,.creator{
+
+	color: darkred;	font-family: Ms Trubuchet;
+
+    font-size: 30px;
+
+}
+
+.login1,.login2{
+
+	color: blueviolet;
+
+	font-family: Arial black;
+
+	font-size: 25px;
+
+}
+
+.submit{
+
+	font-size: 20px;
+
+}
